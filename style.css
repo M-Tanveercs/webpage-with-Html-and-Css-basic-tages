@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+}
+.div1{
+    background-color: darkgreen;
+}
+.div1 span {
+    color: white;
+}
+#span2{
+    color: crimson;
+}
+
+#li3{
+    color: green;
+}
+h2{
+    color: royalblue;
+}
+.div2{
+   background-color: coral; 
+   color: rgb(161, 245, 7);
+}
+#div2_span3{
+    color: darkorchid;
+}
+ol li{
+    color: rgba(95, 58, 3, 0.897);
+}
+h3{
+    text-align: center;
+}
